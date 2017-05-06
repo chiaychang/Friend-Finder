@@ -22,7 +22,7 @@ app.use(express.static(__dirname + "app/public"));
 
 // Starts the server to begin listening
 // =============================================================
-app.listen(PORT, function() {
+app.listen((process.env.PORT || 5000), function() {
     console.log("App listening on PORT " + PORT);
 });
 
