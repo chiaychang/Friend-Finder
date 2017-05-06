@@ -8,6 +8,7 @@ var path = require('path');
 
 // Sets up the Express App
 // =============================================================
+var PORT = 5000;
 var app = express();
 app.set('port', (process.env.PORT || 5000));
 
