@@ -11,4 +11,8 @@ module.exports = [{
 	"name": "I am French",
 	"photo": "https://s-media-cache-ak0.pinimg.com/736x/5d/19/cc/5d19cc73d635a336afe97946760df6ad.jpg",
 	"scores": ["1","1","1","1","1","1","1","1","1","1"]
+},{
+	"name":"Dave",
+	"photo":"https://www.applausestore.com/images/shoplarge/Dave%20minion.jpg",
+	"scores":["2","2","2","2","2","2","2","2","2","2"]
 }]
